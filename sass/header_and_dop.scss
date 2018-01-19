@@ -1,0 +1,25 @@
+@charset "UTF-8";
+*{
+    margin:0;
+    padding: 0;
+}
+body,html{
+    background: #ededed;
+    font-family: "雅黑";
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    display: inline-block;
+}
+
+.below{
+    width:100%;
+    height: 355px;
+    background: #fff;
+    overflow: hidden;
+}
